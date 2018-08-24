@@ -1,5 +1,5 @@
 {
-  "name": "slack-slash-runner",
+  "name": "slack-slash-heroku",
   "version": "1.0.1",
   "description": "Slack slash command handler for DroneUp systems",
   "keywords": [
