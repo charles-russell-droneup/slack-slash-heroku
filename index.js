@@ -1,1 +1,1 @@
-module.exports = require('./lib/slash-runner');
+module.exports = require('./lib/slash-heroku');

@@ -10,6 +10,8 @@
   ],
   "main": "index",
   "dependencies": {
+    "envkey": "^1.1.4",
+    "heroku.node": "^0.2.1",
     "jira": "git+https://github.com/charles-russell-droneup/slack-slash-runner.git"
   },
   "devDependencies": {
