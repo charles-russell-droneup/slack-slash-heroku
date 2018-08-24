@@ -11,7 +11,7 @@
   "main": "index",
   "dependencies": {
     "envkey": "^1.1.4",
-    "heroku.node": "^0.2.1",
+    "heroku.node": "^0.2.1"
   },
   "devDependencies": {
     "eslint": "^2.7.0",
@@ -29,7 +29,7 @@
     "test": "gulp",
     "start": "node server.js"
   },
-  "author": "Charles arussell",
+  "author": "Charles Russell",
   "repository": {
     "type": "git",
     "url": "https://github.com/charles-russell-droneup/slack-slash-runner"
